@@ -16,9 +16,9 @@ router.get('/', (req, res) => {
         },
         {
           model: Tag,
-          attributes: ['tag_name'],
-          through: ProductTag,
-          as: 'product_tag'
+          attributes: ['tag_name']
+          // through: ProductTag,
+          // as: 'product_tag'
         }
       ]
     }
@@ -41,13 +41,14 @@ router.get('/:id', (req, res) => {
       },
       include: [
         {
-          model: Category
+          model: Category,
+          attributes: ['category_name']
         },
         {
           model: Tag,
-          attributes: ['tag_name'],
-          through: ProductTag,
-          as: 'product_tag'
+          attributes: ['tag_name']
+          // through: ProductTag,
+          // as: 'product_tag'
         }
       ]
     }
