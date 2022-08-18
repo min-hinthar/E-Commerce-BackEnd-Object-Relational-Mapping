@@ -3,7 +3,7 @@
 ![Getting Started](./assets/Screenshot.jpg)
 
 Walk-Through Video INSOMNIA: 
-![Getting Started](https://watch.screencastify.com/v/Ygn5sUTXTRregnhQm8bL)
+[https://drive.google.com/file/d/1i9r83czB4hKuFAJY2AfrRAbf0sbXjTDt/view]
 
 -----
 
