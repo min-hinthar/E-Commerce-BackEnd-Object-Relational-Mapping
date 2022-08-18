@@ -1,6 +1,9 @@
 # Project Title [ E-Commerce-BackEnd-Object-Relational-Mapping ]
 
-![Getting Started](./public/assets/Screenshot_final.jpg)
+![Getting Started](./assets/Screenshot.jpg)
+
+Walk-Through Video INSOMNIA: 
+![Getting Started](https://watch.screencastify.com/v/Ygn5sUTXTRregnhQm8bL)
 
 -----
 
